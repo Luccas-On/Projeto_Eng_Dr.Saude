@@ -28,6 +28,7 @@ Projetar um sistema integrado que possibilitará a empresa um aumento na produti
 
 ### Tecnologias
 - PHP 7.2
+- CSS
 - MYSQL
 - Javascript
 
